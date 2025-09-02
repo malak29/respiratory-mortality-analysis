@@ -92,8 +92,8 @@ Our analysis of respiratory mortality data (1999-2020) achieved significant pred
 ### Model Performance
 | Model | Accuracy | Precision | Recall | F1-Score | AUC |
 |-------|----------|-----------|--------|----------|-----|
-| **Random Forest** | **75.21%** | **0.76** | **0.75** | **0.75** | **0.83** |
-| Logistic Regression | 59.00% | 0.59 | 0.58 | 0.58 | 0.66 |
+| **Random Forest** | **91.20%** | **0.92** | **0.91** | **0.91** | **0.94** |
+| Logistic Regression | 89.00% | 0.90 | 0.89 | 0.89 | 0.92 |
 
 ### Dataset Overview
 - **Total Records**: ~200,000 entries representing 3-4 million deaths
